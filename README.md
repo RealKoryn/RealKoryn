@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm **Koryn**, a programmer who enjoys building modern interfaces clean design. I like keeping things minimal while still making experiences feel polished.
+I'm **[Koryn](https://realkoryn.vercel.app/)**, a programmer who enjoys building modern interfaces and clean design. I like keeping things minimal while still making experiences feel polished.
 
 ### What I'm currently into:
 
