@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**RealKoryn/RealKoryn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Koryn**, a programmer who enjoys building modern interfaces clean design. I like keeping things minimal while still making experiences feel polished.
 
-Here are some ideas to get you started:
+### What I'm currently into:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Building with **JavaScript, Lua, and Luau**
+* Creating **User Interface**
+* Working on **small projects that focus on quality.**
+
+---
+
+### Projects I've worked on:
+
+- soon
+
+---
