@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm **[Koryn](https://discord.com/users/1068287365182931066)**, a programmer who enjoys building interfaces and designs. I like keeping things minimal while still making my work feel polished.
+I'm **[Koryn]([https://discord.com/users/1068287365182931066](https://realkoryn.vercel.app/))**, a programmer who enjoys building interfaces and designs. I like keeping things minimal while still making my work feel polished.
 
 ### What I'm currently into:
 
