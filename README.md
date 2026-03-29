@@ -9,9 +9,3 @@ I'm [Koryn](https://realkoryn.vercel.app/), a programmer who enjoys building int
 * Working on **small projects that focus on quality.**
 
 ---
-
-### Projects I've worked on:
-
-- soon
-
----
