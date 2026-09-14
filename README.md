@@ -21,7 +21,8 @@
 * 🔨 **Specialties:** Luau Game Systems, Dynamic Web Apps, Discord Automation, UI/UX Engineering
 * 💼 **Owner & Lead Developer:** BloxSupply: Publishing templates, frameworks, and ready to use Roblox systems.
 * 🎯 **Focus:** High performance code, clean visual design, and user centric software architecture.
-* ⚡ **Workflow:** Component driven design, modular state management, and optimized networking.
+* ⚡ **Workflow:** Component driven design, modular state management, and optimized client server networking.
+* 🎨 **Design Philosophy:** Sleek visual design, intuitive user interface layouts, and high performance standards.
 
 ---
 
@@ -39,16 +40,12 @@
 
 ---
 
-### 📊 GitHub & Activity Stats
+### 💡 Core Capabilities & Development Standards
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RealKoryn&show_icons=true&theme=dark&title_color=FF334B&text_color=FFFFFF&icon_color=FF334B&bg_color=0D1117&border_color=0D1117" alt="Koryn's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RealKoryn&layout=compact&theme=dark&title_color=FF334B&text_color=FFFFFF&bg_color=0D1117&border_color=0D1117" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RealKoryn&theme=dark&hide_border=true&background=0D1117&ring=FF334B&fire=FF334B&currStreakLabel=FF334B" alt="GitHub Streak" height="165" />
-</p>
+* ⚙️ **Modular Systems Architecture:** Engineering decoupled scripts, reusable modules, and clean event pipelines.
+* 🎨 **Modern UI/UX Engineering:** Designing responsive layouts, clean navigation, dynamic dark themes, and smooth user interactions.
+* 🔒 **Data & State Management:** Implementing reliable persistence schemas, secure API integration, and atomic state updates.
+* ⚡ **Performance Optimization:** Reducing resource overhead, optimizing networking packets, and writing lightweight execution loops.
 
 ---
 
