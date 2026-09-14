@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://realkoryn.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-realkoryn.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://x.com/bloxsupply"><img src="https://img.shields.io/badge/X%2FTwitter-@bloxsupply-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://github.com/RealKoryn"><img src="https://img.shields.io/badge/GitHub-RealKoryn-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://discord.gg/ey5GvWX9M7"><img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
@@ -16,41 +16,41 @@
 
 ### 🚀 About Me
 
-> **Minimalist designer & versatile developer.**  
+> **Minimalist designer and versatile developer.**  
 > I build modular code architectures, tight player controls, smooth UI workflows, and modern web platforms.
 
 * 🔨 **Specialties:** Luau Game Systems, Dynamic Web Apps, Discord Automation, UI/UX Engineering
-* 💼 **Owner & Lead Developer:** **BloxSupply** — Publishing templates, frameworks, and ready-to-use Roblox systems.
-* 🎯 **Focus:** High-performance code, clean visual design, and user-centric software architecture.
+* 💼 **Owner & Lead Developer:** BloxSupply: Publishing templates, frameworks, and ready to use Roblox systems.
+* 🎯 **Focus:** High performance code, clean visual design, and user centric software architecture.
 
 ---
 
-### 📦 Featured & Past Projects
+### 📦 Featured Projects & Applications
 
 <p align="center">
   <i>Check out showcase clips, announcements, and product releases on <a href="https://x.com/bloxsupply"><b>@bloxsupply</b></a>!</i>
 </p>
 
-| Project / Product | Tech Stack | Highlights & Features |
+| Project / Product | Tech Stack | Highlights & Link |
 | :--- | :--- | :--- |
-| **Pillow Battles** | `Luau` `ProfileStore` `Roblox` | Full arena combat game featuring custom hitboxes, weapon modules, abilities & persistent server data. |
-| **TungChess** | `TypeScript` `Socket.io` `Stockfish` | Full-stack web chess app with real-time multiplayer, Stockfish engine evaluation, and Elo calculations. |
-| **VRS S2 UCL Hub & Bot** | `Python` `HTML/CSS` `Discord.py` | League management web hub & integrated Discord bot handling contracts, transfers, and fixtures. |
-| **R15 Basketball & R6 Soccer** | `Luau` `Physics` `UI` | Complete sports templates featuring realistic physics, clean client-server architecture, and custom hitboxes. |
-| **R6 Battlegrounds Template** | `Luau` `Roblox Studio` | Complete combat framework with combos, hitboxes, stuns, and fluid movement animations. |
-| **Advanced Gun System** | `Luau` `Viewmodels` `Roblox` | Combat system template with custom animations, viewmodels, recoil mechanics, sound effects, and UI. |
+| **TungChess** | `TypeScript` `Socket.io` `Stockfish` | Full stack web chess app with real time multiplayer, Stockfish engine evaluation, and Elo calculations. [View Live Project](https://tungchess.com) |
+| **VRS S2 UCL Hub** | `Python` `HTML/CSS` `Discord.py` | League management web hub and integrated Discord bot handling contracts, transfers, and match fixtures. [View League Hub](https://vrssoccer.com) |
+| **KamLabs E-Commerce** | `Node.js` `Express` `Stripe` | Custom storefront and ticket management integration for digital goods and asset orders. [View Storefront](https://kamlabs.io) |
+| **Apex Analytics Hub** | `React` `TypeScript` `Tailwind` | High performance web dashboard built for tracking player statistics, live leaderboards, and game analytics. [View Dashboard](https://apexanalytics.dev) |
+| **NodeScript Studio** | `Luau` `Node System` `Roblox` | Visual node based scripting plugin for Roblox Studio to streamline complex UI and event logic. [View Showcase](https://x.com/bloxsupply) |
+| **Advanced Gun System** | `Luau` `Viewmodels` `Roblox` | Combat system template with custom animations, viewmodels, recoil mechanics, sound effects, and UI. [View Product](https://discord.gg/ey5GvWX9M7) |
 
 ---
 
 ### 📊 GitHub & Activity Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vvertzy&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=FF334B&text_color=FFFFFF&icon_color=FF334B&bg_color=0D1117" alt="Koryn's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvertzy&layout=compact&theme=dark&hide_border=true&title_color=FF334B&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RealKoryn&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=FF334B&text_color=FFFFFF&icon_color=FF334B&bg_color=0D1117" alt="Koryn's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealKoryn&layout=compact&theme=dark&hide_border=true&title_color=FF334B&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvertzy&theme=dark&hide_border=true&background=0D1117&ring=FF334B&fire=FF334B&currStreakLabel=FF334B" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RealKoryn&theme=dark&hide_border=true&background=0D1117&ring=FF334B&fire=FF334B&currStreakLabel=FF334B" alt="GitHub Streak" height="165" />
 </p>
 
 ---
