@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF334B&height=120&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF334B&height=120&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=30&fontColor=ffffff&animation=fadeIn&descAlignY=35&descAlign=50" width="100%"/>
 </p>
 
 ---
@@ -89,5 +89,5 @@ Got a project idea, business inquiry, or want to collaborate? Reach out through 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF334B&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF334B&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&descAlignY=65&descAlign=50" width="100%"/>
 </p>
