@@ -6,7 +6,7 @@ I'm a developer and designer focused on crafting clean interfaces, modular game 
 
 ### 📬 How to reach me
 * 🌐 **Website:** [realkoryn.vercel.app](https://realkoryn.vercel.app/)
-* 💼 **Store:** [BloxSupply](https://bloxsupply.com) *(Replace with your store link if needed)*
+* 💼 **Store:** [BloxSupply (SOON)](https://bloxsupply.com)*
 * 💬 **Discord:** `@realkoryn`
 
 ---
