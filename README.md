@@ -13,34 +13,33 @@
 
 ---
 
-### <img src="https://lucide.dev/icons/rocket.svg" width="18" height="18" /> About Me
+### 🚀 About Me
 
 > **Minimalist designer and versatile developer.**  
 > I build modular code architectures, tight player controls, smooth UI workflows, and modern web platforms.
 
-* <img src="https://lucide.dev/icons/wrench.svg" width="16" height="16" /> **Specialties:** Luau Game Systems, Dynamic Web Apps, Discord Automation, UI/UX Engineering
-* <img src="https://lucide.dev/icons/briefcase.svg" width="16" height="16" /> **Owner & Lead Developer:** BloxSupply: Publishing templates, frameworks, and ready to use Roblox systems.
-* <img src="https://lucide.dev/icons/target.svg" width="16" height="16" /> **Focus:** High performance code, clean visual design, and user centric software architecture.
+* 🔨 **Specialties:** Luau Game Systems, Dynamic Web Apps, Discord Automation, UI/UX Engineering
+* 💼 **Owner & Lead Developer:** BloxSupply: Publishing templates, frameworks, and ready to use Roblox systems.
+* 🎯 **Focus:** High performance code, clean visual design, and user centric software architecture.
+* ⚡ **Workflow:** Component driven design, modular state management, and optimized networking.
 
 ---
 
-### <img src="https://lucide.dev/icons/folder.svg" width="18" height="18" /> Featured Projects & Applications
+### 📦 Featured Projects & Applications
 
-<p align="center">
-  <i>Check out showcase clips, announcements, and product releases on <a href="https://x.com/bloxsupply"><b>@bloxsupply</b></a>!</i>
-</p>
-
-| Project / Product | Tech Stack | Highlights & Link |
+| Project / Product | Tech Stack | Highlights & Overview |
 | :--- | :--- | :--- |
-| **TungChess** | `TypeScript` `Socket.io` `Stockfish` | Full stack web chess app with real time multiplayer, Stockfish engine evaluation, and Elo calculations. [tungchess.com](https://tungchess.com) |
-| **VRS S2 UCL Hub** | `Python` `HTML/CSS` `Discord.py` | League management web hub and integrated Discord bot handling contracts, transfers, and match fixtures. [vrssoccer.com](https://vrssoccer.com) |
-| **KamLabs E-Commerce** | `Node.js` `Express` `Stripe` | Custom storefront and ticket management integration for digital goods and asset orders. [kamlabs.io](https://kamlabs.io) |
-| **Apex Analytics Hub** | `React` `TypeScript` `Tailwind` | High performance web dashboard built for tracking player statistics, live leaderboards, and game analytics. [apexanalytics.dev](https://apexanalytics.dev) |
-| **NodeScript Studio** | `Luau` `Node System` `Roblox` | Visual node based scripting plugin for Roblox Studio to streamline complex UI and event logic. [x.com/bloxsupply](https://x.com/bloxsupply) |
+| **TungChess** | `TypeScript` `Socket.io` `Stockfish` | Full stack web chess app with real time multiplayer, Stockfish engine evaluation, and Elo rating calculations. |
+| **VRS S2 UCL Hub** | `Python` `HTML/CSS` `Discord.py` | League management web hub and integrated Discord bot handling player contracts, transfers, and match schedules. |
+| **KamLabs E-Commerce** | `Node.js` `Express` `Stripe` | Custom web storefront and integrated ticket management system for digital asset ordering and support workflows. |
+| **Apex Analytics Hub** | `React` `TypeScript` `Tailwind` | High performance web dashboard engineered for tracking player statistics, live match leaderboards, and game telemetry. |
+| **NodeScript Studio** | `Luau` `Node System` `Roblox` | Visual node based scripting plugin for Roblox Studio built to streamline complex interface logic and event compilation. |
+| **VRS League Bot** | `Python` `Discord.py` `SQLite` | Automated server management bot featuring slash commands, match creation workflows, team rosters, and automated logging. |
+| **Nexus UI Framework** | `Luau` `Fusion` `Roblox` | Lightweight, component driven user interface library designed for modular menu rendering and smooth animation states. |
 
 ---
 
-### <img src="https://lucide.dev/icons/bar-chart-2.svg" width="18" height="18" /> GitHub & Activity Stats
+### 📊 GitHub & Activity Stats
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RealKoryn&show_icons=true&theme=dark&title_color=FF334B&text_color=FFFFFF&icon_color=FF334B&bg_color=0D1117&border_color=0D1117" alt="Koryn's GitHub Stats" height="165" />
@@ -53,7 +52,7 @@
 
 ---
 
-### <img src="https://lucide.dev/icons/cpu.svg" width="18" height="18" /> Tech Stack & Toolkit
+### 🛠️ Tech Stack & Toolkit
 
 **Languages & Game Engineering**  
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=lua&logoColor=white)
@@ -73,9 +72,9 @@
 
 ---
 
-### <img src="https://lucide.dev/icons/heart.svg" width="18" height="18" /> Hobbies
+### 🎯 Hobbies & Interests
 
-![Programming](https://img.shields.io/badge/Programming-000000?style=for-the-badge&logo=code&logoColor=white)
+![Programming](https://img.shields.io/badge/Programming-000000?style=for-the-badge&logo=codeforces&logoColor=white)
 ![Football](https://img.shields.io/badge/Football-111111?style=for-the-badge&logo=activity&logoColor=white)
 ![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 ![Badminton](https://img.shields.io/badge/Badminton-FF334B?style=for-the-badge&logo=activity&logoColor=white)
